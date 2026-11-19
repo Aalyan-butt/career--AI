@@ -20,6 +20,7 @@ from scipy import stats
 #  Suppose 5 % of emails are spam and 95% are safe.
 # If an email is flagged as spam, there is a 90% chance
 # that it is actually spam, and a 10% chance that it is safe.
+
 spam = 0.05
 safe = 1 - spam
 
